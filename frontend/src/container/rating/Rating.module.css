@@ -1,0 +1,17 @@
+.notesMain {
+  position: relative;
+}
+
+.notesAddBtn {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+}
+
+.signupBody {
+    height: 65%;
+}
+
+.signupFooter {
+    height: 25%;
+}

@@ -1,0 +1,25 @@
+.signUpCard {
+}
+
+.signupHeading {
+    height: 10%;
+}
+
+.signupBody {
+    height: 65%;
+    overflow-y: scroll;
+}
+
+.signupFooter {
+    height: 25%;
+}
+
+.passwordDiv {
+    position: relative;
+}
+
+.passwordToggle {
+    position: absolute;
+    right: 20px;
+    top: 30%;
+}

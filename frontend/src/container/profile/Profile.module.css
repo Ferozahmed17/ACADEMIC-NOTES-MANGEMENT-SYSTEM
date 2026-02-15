@@ -1,0 +1,24 @@
+.signUpCard {
+}
+
+.signupHeading {
+    height: 10%;
+}
+
+.signupBody {
+    height: 85%;
+}
+
+.signupFooter {
+    height: 5%;
+}
+
+.passwordDiv {
+    position: relative;
+}
+
+.passwordToggle {
+    position: absolute;
+    right: 20px;
+    top: 30%;
+}

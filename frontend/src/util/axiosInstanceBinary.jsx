@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = import.meta.env.VITE_API || "http://localhost:3000";
+const baseURL = import.meta.env.VITE_API || "https://academic-notes-mangement-system.onrender.com";
 
 const axiosInstanceBinary = axios.create({
   baseURL,

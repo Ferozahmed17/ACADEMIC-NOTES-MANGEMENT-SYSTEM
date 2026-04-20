@@ -6,22 +6,22 @@ export default defineConfig({
   server: {
     proxy: {
       "/note": {
-        target: "https://localhost:3000",
+        target: "http://localhost:3000",
         changeOrigin: true,
         secure: false,
       },
       "/notification": {
-        target: "https://localhost:3000",
+        target: "http://localhost:3000",
         changeOrigin: true,
         secure: false,
       },
       "/event": {
-        target: "https://localhost:3000",
+        target: "http://localhost:3000",
         changeOrigin: true,
         secure: false,
       },
       "/rating": {
-        target: "https://localhost:3000",
+        target: "http://localhost:3000",
         changeOrigin: true,
         secure: false,
       },

@@ -6,22 +6,22 @@ export default defineConfig({
   server: {
     proxy: {
       "/note": {
-        target: "https://academic-notes-mangement-system.onrender.com",
+        target: "https://academic-notes-mangement-system-1-vrcs.onrender.com",
         changeOrigin: true,
         secure: false,
       },
       "/notification": {
-        target: "https://academic-notes-mangement-system.onrender.com",
+        target: "https://academic-notes-mangement-system-1-vrcs.onrender.com",
         changeOrigin: true,
         secure: false,
       },
       "/event": {
-        target: "https://academic-notes-mangement-system.onrender.com",
+        target: "https://academic-notes-mangement-system-1-vrcs.onrender.com",
         changeOrigin: true,
         secure: false,
       },
       "/rating": {
-        target: "https://academic-notes-mangement-system.onrender.com",
+        target: "https://academic-notes-mangement-system-1-vrcs.onrender.com",
         changeOrigin: true,
         secure: false,
       },

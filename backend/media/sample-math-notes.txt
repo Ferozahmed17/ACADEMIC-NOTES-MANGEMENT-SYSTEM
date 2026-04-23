@@ -1,0 +1,10 @@
+This is a sample mathematics note uploaded by a teacher.
+
+Topics covered:
+- Algebra basics
+- Quadratic equations
+- Trigonometry
+
+Date: April 21, 2026
+Subject: Mathematics
+Branch: Computer Science

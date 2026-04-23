@@ -1,0 +1,3 @@
+Image: science-lab.jpg
+Description: A lab scene with science equipment, notebooks, and an open textbook.
+Tags: lab, science, study, experiment

@@ -1,0 +1,14 @@
+Lecture Notes on Physics
+
+Chapter 1: Introduction to Mechanics
+- Newton's Laws
+- Kinematics
+- Dynamics
+
+Chapter 2: Thermodynamics
+- Heat transfer
+- Laws of thermodynamics
+
+Uploaded by: Prof. Smith
+Date: April 21, 2026
+For: Engineering Branch

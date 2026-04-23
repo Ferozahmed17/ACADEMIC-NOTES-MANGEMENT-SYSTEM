@@ -1,0 +1,3 @@
+Image: campus-library.jpg
+Description: A high-resolution photo of the main campus library entrance with students walking by.
+Tags: library, campus, students, architecture

@@ -1,0 +1,15 @@
+Computer Science Notes
+
+Data Structures and Algorithms:
+- Arrays and Linked Lists
+- Stacks and Queues
+- Trees and Graphs
+
+Programming Languages:
+- C++
+- Java
+- Python
+
+Prepared for: CS Students
+Semester: 4th
+Date: April 21, 2026
